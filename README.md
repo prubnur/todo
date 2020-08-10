@@ -1,4 +1,4 @@
-# notodo
+# todo
 
 A new Flutter project.
 
